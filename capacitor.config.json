@@ -1,0 +1,20 @@
+{
+  "appId": "pe.consultora.mitienda",
+  "appName": "Mi Tienda",
+  "webDir": "www",
+  "android": {
+    "allowMixedContent": false
+  },
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 1200,
+      "backgroundColor": "#FAF6F5",
+      "showSpinner": false
+    },
+    "StatusBar": {
+      "overlaysWebView": false,
+      "backgroundColor": "#7A2E55",
+      "style": "DARK"
+    }
+  }
+}
